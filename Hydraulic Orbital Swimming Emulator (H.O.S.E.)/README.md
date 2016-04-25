@@ -1,6 +1,6 @@
-=== Hydraulic Orbital Swimming Emulator (H.O.S.E.)
+# Hydraulic Orbital Swimming Emulator (H.O.S.E.)
 
-== Treading water in micro-gravity
+## Treading water in micro-gravity
 
 H.O.S.E. is a device to excercise in a fluid without getting wet. The initial idea was to just have a tank filled with water and a lid connected to a rubber pant as depicted in the following picture:
 
@@ -10,19 +10,19 @@ Discussing about how to increase the efficiency of the work-out in this device, 
 
 ![HOSEonISS](https://raw.githubusercontent.com/c-base/astrocize/master/Hydraulic%20Orbital%20Swimming%20Emulator%20%28H.O.S.E.%29/HOSE_ISS2_with_handles_1024.png)
 
-== Advantages of the solution:
+## Advantages of the solution:
 
  * optimized weight: parts that need to be brought to the ISS can be relatively leight-weight
  * optimized space usage: the device also acts as water storage tank
  * water is already available, device could be connected to the stations water recycling system
 
-== Additional ideas:
+## Additional ideas:
 
  * change handles to a rail that goes around the water tank
  * add VR to the device to allow swimming your favourite envrionment
  * different temperatures can be applied to the water to induce additional effects
 
-== Resources used:
+## Resources used:
 
 No NASA resource have been used for this project.
 
