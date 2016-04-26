@@ -2,7 +2,7 @@
 
 ## Treading water in micro-gravity
 
-H.O.S.E. is a device to excercise in a fluid without getting wet. The initial idea was to just have a tank filled with water and a lid connected to a rubber pant as depicted in the following picture:
+H.O.S.E. is a device to exercise in a fluid without getting wet. The initial idea was to just have a tank filled with water and a lid connected to a rubber pant as depicted in the following picture:
 
 ![blueprint](https://raw.githubusercontent.com/c-base/astrocize/master/Hydraulic%20Orbital%20Swimming%20Emulator%20%28H.O.S.E.%29/HOSE_ISS2_with_handles_explosion3.png)
 
@@ -19,7 +19,7 @@ Discussing about how to increase the efficiency of the work-out in this device, 
 ## Additional ideas:
 
  * change handles to a rail that goes around the water tank
- * add VR to the device to allow swimming your favourite envrionment
+ * add VR to the device to allow swimming your favorite environment
  * different temperatures can be applied to the water to induce additional effects
 
 ## Resources used:
